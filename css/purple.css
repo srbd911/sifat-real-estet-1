@@ -1,0 +1,186 @@
+.menu-bg {
+	background: rgba(159, 91, 164, 0.8);
+	/*background: rgba(159, 91, 164, 0.8);*/
+	/*#9F5BA4*/
+}
+.carousel-caption-button:hover a{
+	background: #9F5BA4; 
+	color: #fff;
+}
+.carousel-indicators .active {
+	background-color: #9F5BA4;
+}
+.carousel-caption h5 span {
+	color: #9F5BA4;
+}
+.about-left {
+    -webkit-box-shadow: -12px 14px 0px -1px rgba(159, 91, 164, 1);
+    -moz-box-shadow: -12px 14px 0px -1px rgba(159, 91, 164, 1);
+    box-shadow: -12px 14px 0px -1px rgba(159, 91, 164, 1);
+    background: purple;
+}
+.side-bar i {
+	background: #9F5BA4;
+}
+.about-right-seperator {
+	background: rgba(159, 91, 164, 1);
+}
+.about-features-item i {
+	color: rgba(159, 91, 164, 1);
+}
+.title-seperator {
+	background: #9F5BA4;
+}
+[class^="imghvr-"] figcaption, [class*=" imghvr-"] figcaption {
+    border: 3px solid #9F5BA4;
+}
+.why-choose-left-divider {
+	background: #9F5BA4; 
+}
+.why-choose-right-divider {
+	background: #9F5BA4; 
+}
+.service-logo i {
+    color: rgba(159, 91, 164, 1);
+}
+.service-item:before {
+	background: #9F5BA4; 
+}
+.service-item:after {
+	background: #9F5BA4; 
+}
+.service-item-left-child {
+	background: #9F5BA4; 
+}
+.service-item-bottom-child {
+	background: #9F5BA4; 
+}
+.counter-item span {
+	color: #9F5BA4; 
+}
+.team-left-divider {
+	background: #9F5BA4; 
+}
+.team-right-divider {
+	background: #9F5BA4; 
+}
+.member-name h4 a:hover {
+	color: #9F5BA4;  
+}
+.member-profile:hover img {
+	border: 2px solid #9F5BA4; 
+}
+.card-header {
+	background: #9F5BA4; 
+}
+.progress-right-divider {
+	background: #9F5BA4;
+}
+.FAQ-right-divider {
+	background: #9F5BA4;
+}
+.commercial2 {
+	background: #9F5BA4;
+}
+.Healthcare2 {
+	background: #9F5BA4;
+}
+.Entertainment2 {
+	background: #9F5BA4;
+}
+.Residential2 {
+	background: #9F5BA4;
+}
+.Transportation2 {
+	background: #9F5BA4;
+}
+.Religious2 {
+	background: #9F5BA4;
+}
+.Green-Home2 {
+	background: #9F5BA4;
+}
+.blog-pic-year {
+	background: #9F5BA4;
+}
+.blog-title h3 a:hover {
+	color: #9F5BA4;
+}
+.myClient-left-divider {
+	background: #9F5BA4;
+}
+.myClient-right-divider {
+	background: #9F5BA4;
+}
+.client-text-item i {
+	color: #9F5BA4; 
+}
+.client-text-item h4 span {
+	color: #9F5BA4;
+}
+.slick-dots li button:hover {
+	background: #9F5BA4;
+}
+.slick-dots .slick-active button {
+	background: #9F5BA4;
+}
+.proud-client-left-divider {
+	background: #9F5BA4;
+}
+.proud-client-right-divider {
+	background: #9F5BA4;
+}
+.Clients-logo-item a i:hover {
+	color: #9F5BA4;
+}
+.Clients-logo-item a:hover h5 span {
+	color: #9F5BA4; 
+}
+.client-logo-left {
+	background: #9F5BA4;  
+}
+.client-logo-right {
+	background: #9F5BA4;  
+}
+#footer-one {
+	background: #9F5BA4; 
+}
+.footer-two-item-right-divider {
+	background: #9F5BA4; 
+}
+.submit-div input {
+	background: #9F5BA4; 
+}
+.footer-two-item-social-links a:hover {
+	background: rgba(159, 91, 164, 0.80);
+}
+#footer-strip {
+	background-color: #9F5BA4; 
+}
+.footer-last-right h6 a:hover {
+	color: #9F5BA4; 
+}
+.back2top {
+	background: #9F5BA4; 
+}
+.back2top:hover i {
+	color: #9F5BA4;  
+}
+.navbar ul li ul li {
+	background: #9F5BA4; 
+}
+.navbar ul li ul li a {
+	color: #fff;
+}
+.navbar ul li ul li:hover a {
+	color: #fff;
+}
+.navbar ul li ul li ul li:hover {
+	background: #9F5BA4;
+}
+.footer-two-item-cecent-post-item h6 a:hover {
+	color: #9F5BA4; 
+}
+.footer-two-item-userful-links h4 a:hover {
+	color: #9F5BA4;
+}

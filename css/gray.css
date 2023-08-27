@@ -1,0 +1,186 @@
+.menu-bg {
+	background: rgba(153, 153, 153, 0.80);
+	/*background: rgba(153, 153, 153, 0.80);*/
+	/*#999999*/
+}
+.carousel-caption-button:hover a{
+	background: #999999; 
+	color: #fff;
+}
+.carousel-indicators .active {
+	background-color: #999999;
+}
+.carousel-caption h5 span {
+	color: #999999;
+}
+.about-left {
+    -webkit-box-shadow: -12px 14px 0px -1px rgba(153, 153, 153, 1);
+    -moz-box-shadow: -12px 14px 0px -1px rgba(153, 153, 153, 1);
+    box-shadow: -12px 14px 0px -1px rgba(153, 153, 153, 1);
+    background: purple;
+}
+.side-bar i {
+	background: #999999;
+}
+.about-right-seperator {
+	background: rgba(153, 153, 153, 1);
+}
+.about-features-item i {
+	color: rgba(153, 153, 153, 1);
+}
+.title-seperator {
+	background: #999999;
+}
+[class^="imghvr-"] figcaption, [class*=" imghvr-"] figcaption {
+    border: 3px solid #999999;
+}
+.why-choose-left-divider {
+	background: #999999; 
+}
+.why-choose-right-divider {
+	background: #999999; 
+}
+.service-logo i {
+    color: rgba(153, 153, 153, 1);
+}
+.service-item:before {
+	background: #999999; 
+}
+.service-item:after {
+	background: #999999; 
+}
+.service-item-left-child {
+	background: #999999; 
+}
+.service-item-bottom-child {
+	background: #999999; 
+}
+.counter-item span {
+	color: #999999; 
+}
+.team-left-divider {
+	background: #999999; 
+}
+.team-right-divider {
+	background: #999999; 
+}
+.member-name h4 a:hover {
+	color: #999999;  
+}
+.member-profile:hover img {
+	border: 2px solid #999999; 
+}
+.card-header {
+	background: #999999; 
+}
+.progress-right-divider {
+	background: #999999;
+}
+.FAQ-right-divider {
+	background: #999999;
+}
+.commercial2 {
+	background: #999999;
+}
+.Healthcare2 {
+	background: #999999;
+}
+.Entertainment2 {
+	background: #999999;
+}
+.Residential2 {
+	background: #999999;
+}
+.Transportation2 {
+	background: #999999;
+}
+.Religious2 {
+	background: #999999;
+}
+.Green-Home2 {
+	background: #999999;
+}
+.blog-pic-year {
+	background: #999999;
+}
+.blog-title h3 a:hover {
+	color: #999999;
+}
+.myClient-left-divider {
+	background: #999999;
+}
+.myClient-right-divider {
+	background: #999999;
+}
+.client-text-item i {
+	color: #999999; 
+}
+.client-text-item h4 span {
+	color: #999999;
+}
+.slick-dots li button:hover {
+	background: #999999;
+}
+.slick-dots .slick-active button {
+	background: #999999;
+}
+.proud-client-left-divider {
+	background: #999999;
+}
+.proud-client-right-divider {
+	background: #999999;
+}
+.Clients-logo-item a i:hover {
+	color: #999999;
+}
+.Clients-logo-item a:hover h5 span {
+	color: #999999; 
+}
+.client-logo-left {
+	background: #999999;  
+}
+.client-logo-right {
+	background: #999999;  
+}
+#footer-one {
+	background: #999999; 
+}
+.footer-two-item-right-divider {
+	background: #999999; 
+}
+.submit-div input {
+	background: #999999; 
+}
+.footer-two-item-social-links a:hover {
+	background: rgba(153, 153, 153, 0.80);
+}
+#footer-strip {
+	background-color: #999999; 
+}
+.footer-last-right h6 a:hover {
+	color: #999999; 
+}
+.back2top {
+	background: #999999; 
+}
+.back2top:hover i {
+	color: #999999;  
+}
+.navbar ul li ul li {
+	background: #999999; 
+}
+.navbar ul li ul li a {
+	color: #fff;
+}
+.navbar ul li ul li:hover a {
+	color: #fff;
+}
+.navbar ul li ul li ul li:hover {
+	background: #999999;
+}
+.footer-two-item-cecent-post-item h6 a:hover {
+	color: #999999; 
+}
+.footer-two-item-userful-links h4 a:hover {
+	color: #999999;
+}

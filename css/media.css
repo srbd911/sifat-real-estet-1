@@ -1,0 +1,649 @@
+/*#################Extra small devices (portrait phones, less than 576px)###################*/
+@media (max-width: 575.98px) { 
+    .side-bar-previous-position {
+        top: 13%;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .about-left {
+        box-shadow: -6px 7px 0px -1px rgba(255,156,51,1);
+    }
+    .about-right-desc2 {
+        padding-bottom: 50px;
+        padding-left: 0px;
+    }
+    .about-right-seperator {
+        margin-left: 30px;
+    }
+    .about-features-item h5 {
+        margin-top: 10px;
+    }
+    .why-choose-desc {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .why-choose-desc h2 {
+        font-size: 24px;
+    }
+    .service-item {
+        margin: 18px;
+    }
+    .auto-counter-area h3 {
+        font-size: 19px;
+    }
+    .auto-counter-area h1 {
+        font-size: 28px;
+    }
+    .auto-counter-area p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 0px 1px 0px 24px;
+    }
+    .counter-item h6 {
+        font-size: 13px;
+    }
+    .counter-item span {
+        font-size: 28px;
+    }
+    .counter-item i {
+        padding-left: 1px;
+    }
+    #team {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .team-header h2 {
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 0px;
+    }
+    .team-header .team-description p {
+        padding: 0px 0px 0px 0px;
+        font-size: 12px;
+    }
+    .team-divider {
+        top: 25%;
+        width: 70%;
+    }
+    .member-name h4 a {
+        font-size: 13px;
+    }
+    .member-name p {
+        padding-left: 10px;
+    }
+    .social-bars a {
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        font-size: 12px;
+    }
+    .progress-child h2 {
+        font-size: 20px;
+    }
+    .progress-bars .commercial,
+    .progress-bars .Healthcare,
+    .progress-bars .Entertainment,
+    .progress-bars .Residential,
+    .progress-bars .Transportation,
+    .progress-bars .Religious,
+    .progress-bars .Green-Home {
+        width: 200px;
+    }
+    .FAQ h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .card-header button {
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .blog-header h2{
+        font-size: 20px;
+    }
+    .blog-description p {
+        font-size: 12px;
+    }
+    .myClient h2 {
+        font-size: 20px;
+    }
+    .myClient-divider {
+        top: 27px;
+        width: 70%;
+    }
+    .client-text-item i {
+        font-size: 20px;
+    }
+    #clientReview {
+        padding-bottom: 194px;
+    }
+    .client-profile .client-item img {
+        width: 200%;
+    }
+    .client-text-item p {
+        font-size: 13px;
+        line-height: 15px;
+        padding: 0px 0px;
+    }
+    .proud-client {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .proud-client h2 {
+        font-size: 24px;
+    }
+    .proud-client-divider {
+        top: 84px;
+        width: 70%;
+    }
+    #proud-client .proud-client p {
+        padding: 40px 10px 0px 10px;
+    }
+    #Clients-logo .client-logo-left {
+        left: 30%;
+    }
+    #Clients-logo .client-logo-right {
+        right: 30%;
+    }
+    #Clients-logo .Clients-logo-item a h5 {
+        font-size: 12px;
+    }
+    #footer-one .footer-one-item {
+        margin-left: 0px;
+        height: 200px;
+    }
+    #footer-one .footer-one-item-right p {
+        padding: 0px 5px;
+    }
+    .Recent-post,.News-letter,.About-company {
+        text-align: center;
+    }
+    .Usefull-links {
+        text-align: center;
+    }
+    .footer-two-item-box-divider {
+        margin-left: 30%;
+    }
+    #footer-two {
+        padding-bottom: 0px;
+    }
+    .footer-last-left span {
+        padding: 0px 0px 0px 1px;
+    }
+    
+
+}
+
+/*#################Small devices (landscape phones, less than 768px)########################*/
+@media (max-width: 767.98px) { 
+    .about-right h2 {
+        padding-top: 50px;
+    }
+    .why-choose-desc p {
+        padding: 0px 10px 0px 10px;
+    }
+    #team {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .team-description {
+        bottom: -20%;
+    }
+    .team-description p {
+        font-size: 13px;
+    }
+    .card-body {
+        font-size: 14px;
+    }
+    .FAQ h2 {
+        padding-top: 10%;
+    }
+    #blog {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .blog-pic img {
+        width: 100%;
+    }
+    .side-bar i {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .my-side-btn {
+        left: -40px;
+    }
+    .blog-description2 p {
+        padding: 15px 70px 30px 30px;
+        line-height: 20px;
+    }
+    .blog-icons::before {
+        width: 80%;
+    }
+    .blog-icons::after {
+        width: 80%;
+    }
+    #clientReview {
+        padding-bottom: 140px;
+    }
+    .myClient h2 {
+        line-height: 0px;
+    }
+    .myClient-divider {
+        top: 35px;
+    }
+    .client-text-item p {
+        /*font-size: 13px;
+        line-height: 17px;
+        padding: 10px 10px;*/
+    }
+    .client-item {
+        padding-bottom: 10px;
+    }
+    .client-profile img{
+        width: 60%;
+        height: 60%;
+    }
+    .proud-client {
+        padding-top: 40px;
+    }
+    .proud-client-divider {
+        top: 100px;
+    }
+    .proud-client p {
+        padding: 40px 70px 0px 70px;
+    }
+    .Clients-logo-item a h5 {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .client-logo-left i {
+        font-size: 15px;
+    }
+    .client-logo-right i {
+        font-size: 15px;
+    }
+    
+    .footer-one-item-right {
+        text-align: center;
+    }
+    #footer-two {
+        padding-bottom: 0px;
+    }
+    .footer-last-left span {
+        padding: 0px 38px 0px 1px;
+    }
+    .footer-last-right h6 {
+        margin-right: 0px;
+    }
+    
+}
+
+/*#################Medium devices (tablets, less than 992px)#######################*/
+@media (max-width: 991.98px) {
+    /*#############banner and menu css starts here################*/
+    .back2top {
+        width: 30px;
+        height: 30px;
+    }
+    .back2top i {
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+    @keyframes back2topMoveAnimation {
+    from {
+        top: -20%;
+    }
+    to
+    {
+        top: 80%;
+    }
+}
+     .menu-bg button span {
+        /*color: #fff;*/
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar ul li ul {
+        left: -10%;
+        top: 0;
+        z-index: 999;
+    }
+    .dropdown-item {
+        text-align: center;
+        background: skyblue;
+    }
+    .dropdown-item:hover {
+        background: #fff;
+    }
+    .carousel-caption p {
+        padding-right: 60%;
+        font-size: 15px;
+    }
+    
+    .carousel-caption-button {
+        left: 47%;
+    }
+    .carousel-caption-button a {
+        font-size: 14px;
+        font-weight: 600;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .carousel-indicators li {
+        width: 15px;
+        height: 15px;
+    }
+    .carousel-caption h5 span {
+        font-size: 50px;
+    }
+    .carousel-caption h5 {
+        font-size: 50px;
+    }
+    .navbar-toggler {
+        border: 0;
+    }
+    button:focus {
+        outline: 0px dotted;
+    }
+    /*#############banner and menu css ends here################*/
+    
+    /*#############about css starts here################*/
+    .about-right h2 {
+        font-size: 20px;
+        line-height: 0px;
+    }
+    .about-right-seperator {
+        margin-top: 16px;
+        /*margin-left: 14px;*/
+        margin-left: 30px;
+    }
+    .about-right-box {
+        margin-top: 14px;
+    }
+    .about-right-desc2 {
+        padding-bottom: 26px;
+    }
+    .about-right p {
+        font-size: 13px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .about-features-item i {
+        font-size: 25px;
+    }
+    .about-features-item h5 {
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .about-right p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    /*#############about css ends here##################*/
+    
+    /*#############project css starts here##################*/
+    .my-slider {
+        padding-bottom: 60px;
+    }
+    .slider-title {
+        height: 180px;
+    }
+    .left {
+        width: 30px;
+        height: 30px;
+        top: 42%;
+        transform: translateY(-42%);
+        background: rgb(68, 68, 68,0.8);
+    }
+    .right {
+        width: 30px;
+        height: 30px;
+        top: 42%;
+        transform: translateY(-42%);
+        background: rgb(68, 68, 68,0.8);
+    }
+    .left i {
+        line-height: 28px;
+    }
+    .right i {
+        line-height: 28px;
+    }
+    .my-item-back h1 {
+        font-size: 20px;
+    }
+    .my-item-back p {
+        font-size: 15px;
+    }
+    .my-flip-image figcaption p {
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+        line-height: 11px;
+    }
+    .my-flip-image figcaption h4 {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+    .my-flip-image figcaption i {
+        padding-top: 0px;
+    }
+    /*#############project css ends here##################*/
+    
+    /*#############why_choose-title css starts here##################*/
+    .why-choose-desc {
+        padding-top: 65px;
+        padding-bottom: 40px;
+    }
+    .why-choose-left-divider {
+        margin-left: 20px;
+    }
+    /*#############why_choose-title css ends here##################*/
+    
+    /*#############service css starts here##################*/
+    .service-item-left-child {
+        left: -8%;
+    }
+    .service-item-bottom-child {
+        left: -6%;
+    }
+    .service-item:before {
+        left: 106%;
+    }
+    .service-item:after {
+        right: -10%;
+    }
+    /*#############service css ends here##################*/
+    
+    /*#############our team css starts here##################*/
+    .team-description p {
+        padding: 0px 90px 0px 90px;
+    }
+    /*#############our team css ends here##################*/
+    
+    /*#############team member css starts here##################*/
+    .social-bars a:first-child {
+        margin-left: 10px;
+    }
+    .member-name h4 {
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .member-name h4 a {
+        font-size: 13px;
+    }
+    /*#############team member css ends here##################*/
+    
+    /*#############progressStatus css starts here##################*/
+    .progress-child h2 {
+        padding-left: 15%;
+    }
+    .progress-box-divider {
+        margin-left: 16%;
+    }
+    .progress-bars {
+        left: 32%;
+        transform: translateX(-32%);
+    }
+    #accordion {
+        margin-left: 0%;
+        width: 100%;
+    }
+    .FAQ-box-divider {
+        margin-left: 16%;
+    }
+    .FAQ h2 {
+        padding-left: 16%;
+    }
+    /*#############progressStatus css ends here##################*/
+    
+    /*#############blog css starts here##################*/
+    .blog-description p {
+        padding: 0px 0px 0px 0px;
+    }
+    .blog-description2 p {
+        padding: 5px 17px 30px 30px;
+    }
+    .blog-title h3 {
+        font-size: 15px;
+    }
+    /*#############blog css ends here##################*/
+    
+    /*#############clientReview css starts here##################*/
+    #clientReview {
+        padding-bottom: 120px;
+    }
+    .slick-dots li button {
+        width: 20px;
+        height: 20px;
+    }
+    .slick-dots .slick-active button {
+        width: 25px;
+        height: 25px;
+    }
+    .client-item {
+        padding-bottom: 20px;
+    }
+    .client-text-item p {
+        font-size: 15px;
+    }
+    /*#############clientReview css ends here##################*/
+    
+    /*#############client-logo css starts here##################*/
+    .client-logo-left {
+        left: 44%;
+        top: 100%;
+    }
+    .client-logo-right {
+        right: 44%;
+        top: 100%;
+    }
+    /*#############client-logo css ends here##################*/
+    
+    /*#############footer-one css starts here##################*/
+    .footer-one-item {
+        width: 100%;
+        height: 150px;
+        margin-bottom: 20px;
+    }
+    .footer-one-item-left i {
+        font-size: 30px;
+    }
+    /*#############footer-one css ends here##################*/
+    
+    /*#############footer-two css starts here##################*/
+    #footer-two {
+        padding-bottom: 20px;
+    }
+    /*#############footer-two css ends here##################*/
+    
+    /*#############footer-item-two css starts here##################*/
+    .footer-two-item-userful-links {
+        height: 10px;
+    }
+    .footer-two-item {
+        margin-bottom: 30px;
+    }
+    .footer-two-item-form {
+        left: 15px;
+    }
+    .input-div {
+        width: 70%;
+    }
+    .submit-div {
+        left: 70%;
+        width: 15%;
+    }
+    
+    /*#############footer-item-two css ends here##################*/
+    
+    /*#############footer-last css starts here##################*/
+    .footer-last-left span {
+        padding: 0px 38px 0px 1px;
+    }
+        .footer-last-right {
+        text-align: left;
+    }
+    /*#############footer-last css ends here##################*/
+    
+    
+
+}
+
+/*##################Large devices (desktops, less than 1200px)######################*/
+@media (max-width: 1199.98px) { 
+    #clientReview {
+        /*padding-bottom: 120px;*/
+        padding-bottom: 194px;
+    }
+    /*#############progressStatus css starts here##################*/
+    .progress-child h2 {
+        padding-left: 15%;
+    }
+    .progress-box-divider {
+        margin-left: 16%;
+    }
+    .progress-bars {
+        left: 32%;
+        transform: translateX(-32%);
+    }
+    .commercial {
+        width: 368px;
+    }
+    .Healthcare {
+        width: 368px;
+    }
+    .Entertainment {
+        width: 368px;
+    }
+    .Residential {
+        width: 368px;
+    }
+    .Transportation {
+        width: 368px;
+    }
+    .Religious {
+        width: 368px;
+    }
+    .Green-Home {
+        width: 368px;
+    }
+    #accordion {
+        margin-left: 0%;
+        width: 100%;
+    }
+    .FAQ-box-divider {
+        margin-left: 16%;
+    }
+    .FAQ h2 {
+        padding-left: 16%;
+    }
+    /*#############progressStatus css ends here##################*/
+}
